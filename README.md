@@ -1,2 +1,1 @@
-# practice_on_python
-This repository contains my Python practice exercises, covering a variety of fundamental and intermediate programming concepts.
+Plotly is a data visualization library that enables users to create interactive, publication ready charts and dashboards in Python, R and JavaScript. It is widely used for exploratory data analysis, business reporting and web‑based visualisations.
